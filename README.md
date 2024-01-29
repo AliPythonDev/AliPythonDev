@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://github.com/AliPythonDev">
    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=10000000&color=0303C5&center=true&repeat=false&width=435&lines=Ali+Nawaz" alt="Ali Nawaz" /></a>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
