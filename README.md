@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ali Nawaz: Pioneering Data Scientist and Founder of PyFlux Nexus, Advancing AI/ML for Data Insights</h1>
-<h3 align="center">Unleashing the Power of Data: Transforming Ideas into Actionable Insights for a Smarter Future</h3>
+<p align="center">
+  <a href="https://github.com/AliPythonDev">
+   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=10000000&color=0303C5&center=true&repeat=false&width=435&lines=Ali+Nawaz" alt="Ali Nawaz" /></a>
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Data+Scientist; Machine+Mindset+Maven; Knowledge+Alchemist; Algorithm+Artisan; Data+Maestro; Statistical+Maestro; Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alipythondev&label=Profile%20views&color=0e75b6&style=flat" alt="alipythondev" /> </p>
 
