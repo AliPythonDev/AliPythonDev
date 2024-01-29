@@ -57,3 +57,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alipythondev&show_icons=true&locale=en" alt="alipythondev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alipythondev&" alt="alipythondev" /></p>
+
+[![Ali Nawaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AliPythonDev&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
