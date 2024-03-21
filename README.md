@@ -5,7 +5,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Data+Scientist; Machine+Mindset+Maven; Knowledge+Alchemist; Algorithm+Artisan; Data+Maestro; Statistical+Maestro; Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" />
    </a>
 </p>
-
+<div>I write bugs</div>  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="100" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alipythondev&label=Profile%20views&color=0e75b6&style=flat" alt="alipythondev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alipythondev" alt="alipythondev" /></a> </p>
