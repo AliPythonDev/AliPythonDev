@@ -103,19 +103,17 @@
         <img alt="AliPythonDev streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AliPythonDev&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
-## 📊 My Github Stats
+## 📊 My GitHub Stats
 
 <br>
 
 <p align="center" >
 <img alt="AliPythonDev" src="https://github-readme-stats.vercel.app/api?username=AliPythonDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="AliPythonDev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliPythonDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="AliPythonDev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliPythonDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br>
+<img align="center" src="https://github-contributor-stats.vercel.app/api?username=alipythondev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&" alt="alipythondev" />
 </p>
-
 <br>
-
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=alipythondev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&" alt="alipythondev" /></p>
 
 [![Ali Nawaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AliPythonDev&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
