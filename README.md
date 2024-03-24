@@ -96,12 +96,25 @@
 </p>
 
 
-<div align="center" >
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alipythondev&show_icons=true&locale=en&layout=compact" alt="alipythondev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alipythondev&show_icons=true&locale=en" alt="alipythondev" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alipythondev&" alt="alipythondev" /></p>
+<p align="center">
+        <img alt="AnshikaAgrawal5501 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshikaAgrawal5501&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+</p>
+
+## 📊 My Github Stats
+
+<br>
+
+<p align="center" >
+<img alt="AliPythonDev" src="https://github-readme-stats.vercel.app/api?username=AliPythonDev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="AliPythonDev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliPythonDev&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <br>
+<img alt="AliPythonDev Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AliPythonDev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</p>
+
+<br>
 
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=alipythondev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&" alt="alipythondev" /></p>
 
