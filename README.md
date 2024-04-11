@@ -30,7 +30,7 @@
     <p align="center">
       <h2>LeetCode Stats</h2>
     </p>
-    <img src="https://leetcard.jacoblin.cool/NaveenE?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/AliPythonDev?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
   </div>
 
 - 🌱 I’m currently learning **variety of topics to strengthen my skills as a data scientist and software engineer. On the data science front, I'm delving into machine learning algorithms, statistical analysis, and data visualization techniques. I find it fascinating to explore different models and understand how they can be applied to real-world problems. In the realm of software engineering, I'm focusing on enhancing my proficiency in programming languages such as C++ and Python, as well as improving my understanding of data structures and algorithms. Additionally, I'm gaining hands-on experience with web development frameworks and tools to build robust and scalable applications. I'm also keen on developing a solid foundation in databases, both relational and NoSQL, to effectively manage and manipulate data in various projects. Keeping up with industry trends and best practices in both data science and software engineering is crucial, so I'm constantly exploring new technologies and methodologies to stay on the cutting edge. Overall, the journey involves a mix of theoretical learning, practical application, and continuous exploration to stay adaptive in the dynamic fields of data science and software engineering.**
