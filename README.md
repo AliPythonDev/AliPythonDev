@@ -1,8 +1,16 @@
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Welcome to My GitHub Profile
+</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" style="width: 100%; max-width: 400px;">
+</p>
+
 <p align="center">
    <a href="https://github.com/AliPythonDev">
-   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=10000000&color=0303C5&center=true&repeat=false&width=435&lines=Ali+Nawaz" alt="Ali Nawaz" /></a>
+   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=10000000&color=0303C5&center=true&repeat=false&width=435&lines=I+am+Ali+Nawaz" alt="Ali Nawaz" /></a>
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Data+Scientist; Machine+Mindset+Maven; Knowledge+Alchemist; Algorithm+Artisan; Data+Maestro; Statistical+Maestro; Tech+Evangelist&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Software+Engineer; Full+Stack+Developer; DevOps+Engineer; Data+Scientist;&font=Fira%20Code&center=true&width=600&height=45&color=0F8D0F&vCenter=true&pause=1000&size=22" />
    </a>
 </p>
     <div align="center">
@@ -18,6 +26,12 @@
 <p align="left"> <a href="https://twitter.com/alipythondev" target="blank"><img src="https://img.shields.io/twitter/follow/alipythondev?logo=twitter&style=for-the-badge" alt="alipythondev" /></a> </p>
 
 - 🔭 I’m currently working on [100 Days on Leetcode](https://github.com/AliPythonDev/100DaysofLeetcode)
+  <div align="center">
+    <p align="center">
+      <h2>LeetCode Stats</h2>
+    </p>
+    <img src="https://leetcard.jacoblin.cool/NaveenE?theme=dark&font=Poppins&ext=contest" alt="LeetCode Stats" />
+  </div>
 
 - 🌱 I’m currently learning **variety of topics to strengthen my skills as a data scientist and software engineer. On the data science front, I'm delving into machine learning algorithms, statistical analysis, and data visualization techniques. I find it fascinating to explore different models and understand how they can be applied to real-world problems. In the realm of software engineering, I'm focusing on enhancing my proficiency in programming languages such as C++ and Python, as well as improving my understanding of data structures and algorithms. Additionally, I'm gaining hands-on experience with web development frameworks and tools to build robust and scalable applications. I'm also keen on developing a solid foundation in databases, both relational and NoSQL, to effectively manage and manipulate data in various projects. Keeping up with industry trends and best practices in both data science and software engineering is crucial, so I'm constantly exploring new technologies and methodologies to stay on the cutting edge. Overall, the journey involves a mix of theoretical learning, practical application, and continuous exploration to stay adaptive in the dynamic fields of data science and software engineering.**
 
