@@ -25,7 +25,7 @@
 
 <p align="left"> <a href="https://twitter.com/alipythondev" target="blank"><img src="https://img.shields.io/twitter/follow/alipythondev?logo=twitter&style=for-the-badge" alt="alipythondev" /></a> </p>
 
-- 🔭 I’m currently working on [366 Days on Leetcode](https://github.com/AliPythonDev/100DaysofLeetcode)
+- 🔭 I’m currently working on [366 Days on Leetcode](https://github.com/AliPythonDev/366DaysofLeetcode)
   <div align="center">
     <p align="center">
       <h2>LeetCode Stats</h2>
